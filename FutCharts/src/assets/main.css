@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pos {
+    background-color: blue;
+    height: 98%;
+    width:80%;
+    overflow: auto;
+    position: absolute;
+    top: 5px;
+    left: 260px;
+}
